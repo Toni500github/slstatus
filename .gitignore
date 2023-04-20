@@ -1,0 +1,6 @@
+*.o
+components/*.o
+slstatus
+*.rej
+*.orig
+config.h
