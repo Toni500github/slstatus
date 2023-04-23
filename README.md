@@ -7,6 +7,8 @@ Requirements
 ------------
 Needs dwm to have the [status2d](https://dwm.suckless.org/patches/status2d/) patch (since i need systray, i used the status2d-systray patch, on the same page)
 
+[powerline fonts](https://github.com/powerline/fonts)
+
 Left and right arrows
 ------------
 This build provides the 2 version of the status. as you can see on the screenshots, one has the arrow on the left (more clean) and the other has the arrows on the right
