@@ -21,4 +21,5 @@ config.h: config-left.def.h
 	cp config-left.def.h $@
 ```
 here just modify which .def.h you want to use when compiling (by default i prefer with left arrows)
-REMEMBER TO DELETE `config.h` each time you modify that
+
+REMEMBER TO DELETE `config.h` each time you modify the Makefile
