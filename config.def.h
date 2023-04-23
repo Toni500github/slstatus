@@ -14,7 +14,7 @@ static const struct arg args[] = {
     /* function 	format          	argument */
     //{disk_free,   "[ %s / ",           "/"},         
     //{disk_total,  "%s] | ",           "/"},
-    {cpu_perc,    "^b#227dc7^^c#71d94c^\ue0b2^b#71d94c^^c#100548^  %s%% ",      NULL},
+    {cpu_perc,    "^b#71d94c^^c#100548^  %s%% ",      NULL},
     {ram_used,    "^b#e0af68^^c#71d94c^\ue0b0^c#15161e^  %s/",           NULL},
     {ram_total,   "%s ",           NULL},
     //{run_command, "[%s]",             "bash /home/toni/.local/bin/lukebin/statusbar/sb-memory"},
