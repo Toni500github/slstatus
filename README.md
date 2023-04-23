@@ -7,7 +7,7 @@ Requirements
 ------------
 Needs dwm to have the [status2d](https://dwm.suckless.org/patches/status2d/) patch (since i need systray, i used the status2d-systray patch, on the same page)
 
-[powerline fonts](https://github.com/powerline/fonts)
+[powerline fonts](https://github.com/powerline/fonts) (optional)
 
 Left and right arrows
 ------------
